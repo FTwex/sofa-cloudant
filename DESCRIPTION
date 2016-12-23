@@ -1,5 +1,5 @@
-Package: sofa
-Title: Connector to 'CouchDB'
+Package: sofaCloudant
+Title: Connector to 'Cloudant'
 Description: Provides an interface to the 'NoSQL' database 'CouchDB'
     (<http://couchdb.apache.org>). Methods are provided for managing
     databases within 'CouchDB', including creating/deleting/updating/transferring,
